@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "open-image-studio.catalog-key/v1",
+  "keyId": "ois-catalog-p256-b4d9ecdc04a0ee87",
+  "algorithm": "ECDSA_P256_SHA256_IEEE_P1363",
+  "publicJwk": {
+    "kty": "EC",
+    "crv": "P-256",
+    "x": "NpTyK2pxmrwzfIqR_kf8mFGS0PcYxNj3b77SWx9ePoc",
+    "y": "pVxfYVqjnLoK516r98hEk2be6douYljG3aTStUSg6bA",
+    "ext": true,
+    "key_ops": [
+      "verify"
+    ]
+  }
+}

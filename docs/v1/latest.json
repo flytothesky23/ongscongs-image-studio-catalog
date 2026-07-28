@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "open-image-studio.catalog-pointer/v1",
+  "channel": "stable",
+  "sequence": 1785218322033,
+  "revision": "2026-07-28-c594b825ff04598a",
+  "publishedAt": "2026-07-28T05:58:42.033Z",
+  "minimumExtensionVersion": "0.1.0",
+  "catalogPath": "v1/releases/2026-07-28-c594b825ff04598a/catalog.json",
+  "catalogSha256": "3152adf66238705d39be98a30efeb40d87c4107ffdfeadcd0e83d945389152e7",
+  "catalogByteLength": 96369,
+  "templateCount": 20,
+  "keyId": "ois-catalog-p256-b4d9ecdc04a0ee87"
+}
