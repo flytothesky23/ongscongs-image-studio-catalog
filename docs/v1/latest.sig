@@ -2,5 +2,5 @@
   "schemaVersion": "open-image-studio.catalog-signature/v1",
   "keyId": "ois-catalog-p256-b4d9ecdc04a0ee87",
   "algorithm": "ECDSA_P256_SHA256_IEEE_P1363",
-  "signature": "vpt-UB36ah5rgKk6DjSIc0q3RgU1iqCkU4g1iRg6bDxSp-OfI87NJCbohtHrqLFLJq3KB38JbY9Bo3CvD_pFog"
+  "signature": "c5saHhu0hXSnLr8rWX1kc8QHeZtyCYgRVMIDmmcbqW-touE7_pmgi_7fjhjRBPd9SMdmlgQXgjICD1GFthC0ug"
 }
