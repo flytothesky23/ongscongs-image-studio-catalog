@@ -1,13 +1,13 @@
 {
   "schemaVersion": "open-image-studio.catalog-pointer/v1",
   "channel": "stable",
-  "sequence": 1788495152112,
-  "revision": "2026-09-04-378e6fe05d30858f",
-  "publishedAt": "2026-09-04T04:12:32.112Z",
+  "sequence": 1788581705237,
+  "revision": "2026-09-05-5c8fc7663902750e",
+  "publishedAt": "2026-09-05T04:15:05.237Z",
   "minimumExtensionVersion": "0.2.0",
-  "catalogPath": "v1/releases/2026-09-04-378e6fe05d30858f/catalog.json",
-  "catalogSha256": "13587cf98dac37d630ff4c902067e2fb8b10e6876e06bceccc07bc58978ecaa3",
-  "catalogByteLength": 712927,
-  "templateCount": 104,
+  "catalogPath": "v1/releases/2026-09-05-5c8fc7663902750e/catalog.json",
+  "catalogSha256": "c5c19314876df9e430e7e79206a3c3b74a7318b7497ab32a3a1585bc87542cde",
+  "catalogByteLength": 732970,
+  "templateCount": 106,
   "keyId": "ois-catalog-p256-b4d9ecdc04a0ee87"
 }
